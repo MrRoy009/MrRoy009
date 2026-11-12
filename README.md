@@ -33,7 +33,7 @@
 ## Reach me
 
 - Email: swastayan204@gmail.com
-- Projects: [portfolio-website-swastayan-roys-projects.vercel.app](https://portfolio-website-swastayan-roys-projects.vercel.app/)
+- Projects: [portfolio-website-swastayan-roys-projects.vercel.app](https://mrroy009.github.io/New-Portfolio-Website/)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/swastayan-roy-80739b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
